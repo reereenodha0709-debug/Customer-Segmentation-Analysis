@@ -1,0 +1,4 @@
+CustomerSegment,RiskBand,Customers,AverageTenureMonths,AverageSupportTickets,ObservedChurnRate
+At-risk: new/high support,High,6,5.833333333333333,4.5,1.0
+Needs monitoring,Medium,1,14.0,3.0,1.0
+Stable / nurture,Low,8,29.125,1.0,0.0
